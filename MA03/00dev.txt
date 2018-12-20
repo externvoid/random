@@ -1,0 +1,3 @@
+NSWindow, controls, resize, uncheck -> リサイズ禁止
+NSTextFieldの文字列、stringValue
+メニューのApp名は、Application, Main Menu
