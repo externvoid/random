@@ -15,6 +15,9 @@ class ViewController: NSViewController {
   override func viewDidLoad() {
     super.viewDidLoad()
     lblNum.stringValue = "OK"
+    let dateFormatter = DateFormatter()
+    dateFormatter.dateFormat = "yyyy/MM/dd HH:mm:ss Z"
+    lblNum.stringValue = dateFormatter.string(from:Date())
 
     // Do any additional setup after loading the view.
   }

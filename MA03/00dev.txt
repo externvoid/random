@@ -1,3 +1,7 @@
+## 2018/12/20Th
+git push origin master, originリポジトリのmasterブランチ
+
+## 2018/12/19Wn
 NSWindow, controls, resize, uncheck -> リサイズ禁止
 NSTextFieldの文字列、stringValue
 メニューのApp名は、Application, Main Menu
